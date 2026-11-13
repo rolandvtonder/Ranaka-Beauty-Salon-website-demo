@@ -1,0 +1,224 @@
+{
+  "pedicure-loungers": {
+    "cat": "spa",
+    "alt": "Two leather pedicure loungers with striped throws and rolled towels at Ranaka Beauty Salon",
+    "w": 1440,
+    "h": 1440
+  },
+  "hot-stone-massage": {
+    "cat": "spa",
+    "alt": "Hot stone massage with smooth basalt stones placed along the back",
+    "w": 720,
+    "h": 720
+  },
+  "nude-almond-gel-nails": {
+    "cat": "nails",
+    "alt": "Nude almond-shaped gel nails",
+    "w": 540,
+    "h": 540
+  },
+  "navy-french-tip-nail-art": {
+    "cat": "nails",
+    "alt": "Navy French tips with silver line nail art",
+    "w": 1440,
+    "h": 1440
+  },
+  "massage-treatment-room": {
+    "cat": "spa",
+    "alt": "Massage treatment room with pink walls, beds and fresh towels",
+    "w": 1440,
+    "h": 1440
+  },
+  "abstract-line-nail-art": {
+    "cat": "nails",
+    "alt": "Pink and white abstract line nail art on square nails",
+    "w": 1536,
+    "h": 2048
+  },
+  "coral-gel-pedicure": {
+    "cat": "feet",
+    "alt": "Bright coral gel pedicure",
+    "w": 720,
+    "h": 720
+  },
+  "hot-stone-back-treatment": {
+    "cat": "spa",
+    "alt": "Hot stones along the spine during a back treatment",
+    "w": 720,
+    "h": 720
+  },
+  "black-white-nail-art": {
+    "cat": "nails",
+    "alt": "Black and grey colour-block gel nails",
+    "w": 720,
+    "h": 720
+  },
+  "nude-gold-almond-nails": {
+    "cat": "nails",
+    "alt": "Nude almond nails with gold detail",
+    "w": 1440,
+    "h": 1440
+  },
+  "red-stiletto-nails": {
+    "cat": "nails",
+    "alt": "Glossy red stiletto nails",
+    "w": 720,
+    "h": 720
+  },
+  "nude-french-coffin-nails": {
+    "cat": "nails",
+    "alt": "Long nude coffin nails with a white French outline",
+    "w": 1080,
+    "h": 1080
+  },
+  "turquoise-pink-gel-nails": {
+    "cat": "nails",
+    "alt": "Turquoise and pink gel nails",
+    "w": 720,
+    "h": 720
+  },
+  "colourful-coffin-nail-art": {
+    "cat": "nails",
+    "alt": "Colourful coffin nail art in blue, pink and yellow",
+    "w": 720,
+    "h": 720
+  },
+  "pink-white-coffin-nails": {
+    "cat": "nails",
+    "alt": "Pink coffin nails with white tip outline",
+    "w": 720,
+    "h": 720
+  },
+  "nude-white-tip-almond-nails": {
+    "cat": "nails",
+    "alt": "Soft nude almond nails with white tips",
+    "w": 720,
+    "h": 900
+  },
+  "knotless-braids-red-ombre": {
+    "cat": "hair",
+    "alt": "Long knotless braids with red ombre ends",
+    "w": 720,
+    "h": 720
+  },
+  "brown-french-tip-nails": {
+    "cat": "nails",
+    "alt": "Chocolate brown French tip nails",
+    "w": 720,
+    "h": 900
+  },
+  "geometric-colour-nail-art": {
+    "cat": "nails",
+    "alt": "Bold geometric nail art in red, yellow and turquoise",
+    "w": 1440,
+    "h": 1440
+  },
+  "hot-pink-gel-nails": {
+    "cat": "nails",
+    "alt": "Hot pink square gel nails",
+    "w": 720,
+    "h": 900
+  },
+  "red-glitter-nail-art": {
+    "cat": "nails",
+    "alt": "Red nails with a glitter accent",
+    "w": 720,
+    "h": 720
+  },
+  "red-almond-heart-nails": {
+    "cat": "nails",
+    "alt": "Red almond nails with heart accent",
+    "w": 1440,
+    "h": 1440
+  },
+  "braids-red-ends": {
+    "cat": "hair",
+    "alt": "Braids with red ends, back view",
+    "w": 720,
+    "h": 720
+  },
+  "classic-lash-extensions": {
+    "cat": "lashes",
+    "alt": "Classic lash extensions, close-up after the treatment",
+    "w": 1600,
+    "h": 2035
+  },
+  "natural-lashes-before": {
+    "cat": "lashes",
+    "alt": "Natural lashes before a classic lash set",
+    "w": 533,
+    "h": 789
+  },
+  "blue-leopard-nail-art": {
+    "cat": "nails",
+    "alt": "Sky blue nails with leopard print accent",
+    "w": 720,
+    "h": 1280
+  },
+  "ranaka-treatment-bed": {
+    "cat": "spa",
+    "alt": "Ranaka Beauty treatment bed under the salon sign",
+    "w": 1080,
+    "h": 1080
+  },
+  "pedicure-foot-soak": {
+    "cat": "feet",
+    "alt": "Foot soak during a Ranaka pedicure",
+    "w": 1080,
+    "h": 1439
+  },
+  "ranaka-massage-bed": {
+    "cat": "spa",
+    "alt": "Massage bed dressed with a branded Ranaka towel",
+    "w": 1080,
+    "h": 1080
+  },
+  "pedicure-sugar-scrub": {
+    "cat": "feet",
+    "alt": "Strawberry sugar scrub being applied during a pedicure",
+    "w": 1080,
+    "h": 1439
+  },
+  "back-massage": {
+    "cat": "spa",
+    "alt": "Relaxing back massage",
+    "w": 1013,
+    "h": 1350
+  },
+  "pink-massage-bed": {
+    "cat": "spa",
+    "alt": "Pink-dressed massage bed ready for a treatment",
+    "w": 1013,
+    "h": 1350
+  },
+  "red-plaid-nail-art": {
+    "cat": "nails",
+    "alt": "Red almond nails with plaid nail art and the Ranaka logo card",
+    "w": 720,
+    "h": 1153
+  },
+  "womens-massage-course-flyer": {
+    "cat": "about",
+    "alt": "Flyer for the Ranaka free short massage course for single mothers",
+    "w": 1080,
+    "h": 1080
+  },
+  "neon-rainbow-nail-tips": {
+    "cat": "nails",
+    "alt": "Neon rainbow French tip nails",
+    "w": 1440,
+    "h": 1440
+  },
+  "orange-line-almond-nails": {
+    "cat": "nails",
+    "alt": "Orange and nude almond nails with fine black lines",
+    "w": 1440,
+    "h": 1440
+  },
+  "lash-lift-closeup": {
+    "cat": "lashes",
+    "alt": "Close-up of lashes and brows after treatment",
+    "w": 1440,
+    "h": 1801
+  }
+}
